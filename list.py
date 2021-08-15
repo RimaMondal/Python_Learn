@@ -22,3 +22,6 @@ print(max(nums)) #100
 print(sum(nums)) #340
 nums.sort()
 print(nums) #[20, 60, 70, 90, 100]
+
+
+
